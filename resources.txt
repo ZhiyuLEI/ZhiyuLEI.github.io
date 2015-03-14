@@ -1,0 +1,17 @@
+Resources Used for Project 2
+
+Websites & forums & Github repo
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace
+
+http://api.jquery.com/append/
+
+https://github.com/udacity/frontend-nanodegree-resume
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
+
+https://developers.google.com/maps/documentation/javascript/reference#InfoWindow
+
+https://developers.google.com/maps/documentation/javascript/infowindows
+
+books & blogposts: N/A
